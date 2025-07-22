@@ -3,4 +3,4 @@ uvicorn==0.29.0
 sentence-transformers==2.6.1
 torch==2.5.1
 numpy==2.2.0
-faiss-cpu==1.7.4.post2 
+faiss-cpu==1.7.4
