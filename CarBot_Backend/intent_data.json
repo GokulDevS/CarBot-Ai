@@ -1,0 +1,77 @@
+[
+  {
+    "intent": "greet",
+    "examples": [
+      "Hello",
+      "Hi",
+      "Hey",
+      "Good morning",
+      "Good evening",
+      "Hey there!",
+      "Hi there",
+      "Greetings!",
+      "What's up?",
+      "How are you?",
+      "Howdy!",
+      "Yo!",
+      "Good to see you",
+      "Hello there",
+      "Hi, how are you?",
+      "Nice to meet you",
+      "Is anyone there?",
+      "Hey buddy",
+      "Hey assistant",
+      "Good day"
+    ]
+  },
+  {
+    "intent": "book",
+    "examples": [
+      "I want to book a car",
+      "Book a ride for me",
+      "Can I reserve a car?",
+      "I need to schedule a ride",
+      "Please book a vehicle",
+      "Schedule a car",
+      "I need a car",
+      "Book a taxi",
+      "I'd like to make a booking",
+      "Help me reserve a ride",
+      "I want to schedule a cab",
+      "Book a vehicle for 5pm",
+      "Arrange a car for me",
+      "I’d like to book now",
+      "Set up a ride",
+      "Reserve a taxi",
+      "Can you book a ride?",
+      "Get me a ride please",
+      "I need a ride",
+      "Make a car reservation"
+    ]
+  },
+  {
+    "intent": "cancel",
+    "examples": [
+      "Cancel my ride",
+      "I want to cancel",
+      "Cancel my booking",
+      "Please cancel the trip",
+      "Abort the ride",
+      "I need to cancel my reservation",
+      "Revoke my booking",
+      "Cancel the car I booked",
+      "I don't need the ride anymore",
+      "Drop the reservation",
+      "Cancel my scheduled ride",
+      "I changed my mind, cancel it",
+      "Call off my ride",
+      "Cancel that cab",
+      "Don’t need the booking anymore",
+      "Stop my ride",
+      "Can you cancel my reservation?",
+      "Cancel it now",
+      "End my ride",
+      "Forget the booking"
+    ]
+  }
+]

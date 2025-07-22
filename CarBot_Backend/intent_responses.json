@@ -1,0 +1,6 @@
+{
+  "greet": "Hi! How can I assist you today?",
+  "book": "Sure, I can help you book a ride. Please provide details.",
+  "cancel": "Sure, I can help you cancel your booking.",
+  "unknown": "Sorry, I didn't understand that. Can you rephrase?"
+}
